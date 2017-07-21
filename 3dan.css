@@ -1,0 +1,40 @@
+.jh-container {
+    width: 940px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+}
+.jh-header {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #bcbcbc;
+    
+}
+.jh-sidebar-left {
+    width: 160px;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #bcbcbc;
+    
+}
+.jh-content {
+    width: 450px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #bcbcbc;
+}
+.jh-sidebar-right {
+    width: 160px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: right;
+    border: 1px solid #bcbcbc;
+}
+.jh-footer {
+    clear: both;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+}
